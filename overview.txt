@@ -31,3 +31,4 @@ profiling, and code optimization. In the final two programming
 assignments, students will work in pairs to implement a simple in-memory
 caching database and a high-performance financial trading system.
 
+Hello, World
